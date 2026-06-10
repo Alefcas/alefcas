@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Olá, eu sou Alef Castro
+# Olá, eu sou Alef Castro
 
 ### 💻 Estudante de Análise e Desenvolvimento de Sistemas
-### 🚀 Futuro Desenvolvedor de Software
+### 🚀 Futuro Analista ou Desenvolvedor
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Alef%20Castro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20|%20C++%20|%20Git%20|%20GitHub%20|%20English&descAlignY=60"/>
 
@@ -13,17 +13,18 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de ADS (FATEC)
+🎓 Estudante de ADS (FATEC SANTANA DE PARNAÍBA)
 
-📚 Atualmente estudando:
+Atualmente estudando:
 
 - Python
 - C++
 - Git e GitHub
 - Estrutura de Dados
+- Lógica de Programação
 - Inglês
 
-🚀 Buscando minha primeira oportunidade como Desenvolvedor.
+🚀 Buscando minha primeira oportunidade como Desenvolvedor ou Analísta.
 
 ---
 
