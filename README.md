@@ -42,9 +42,9 @@ Atualmente estudando:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alefdev04&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alefcas&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alefdev04&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alefcas&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -54,7 +54,7 @@ Atualmente estudando:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Alefdev04&theme=tokyonight&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=Alefcas&theme=tokyonight&hide_border=false"/>
 
 </div>
 
