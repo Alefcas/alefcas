@@ -62,15 +62,15 @@ Atualmente estudando:
 
 ## 🎯 Objetivos para 2026
 
--Aprimorar Python
+- Aprimorar Python
 
--Aprender Estruturas de Dados
+- Aprender Estruturas de Dados
 
--Desenvolver projetos para portfólio
+- Desenvolver projetos para portfólio
 
--Conseguir uma oportunidade na área de tecnologia
+- Conseguir uma oportunidade na área de tecnologia
 
--Evoluir no inglês
+- Evoluir no inglês
 
 ---
 
