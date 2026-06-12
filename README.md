@@ -24,7 +24,7 @@ Atualmente estudando:
 - Lógica de Programação
 - Inglês
 
-🚀 Buscando minha primeira oportunidade como Desenvolvedor ou Analísta.
+🚀 Buscando minha primeira oportunidade como Analísta ou Desenvolvedor.
 
 ---
 
